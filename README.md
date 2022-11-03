@@ -1,3 +1,2 @@
 # Sampleproject2
-This is the demo class 
-sample
+hello this Is demo class 
