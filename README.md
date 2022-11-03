@@ -1,6 +1,2 @@
-
-# Sampleproject2   
-     drr
-# Sampleproject2
-this is cs branch 
-these is in main
+#SAMOLE PROJECT2
+these is cyber security class
